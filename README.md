@@ -25,27 +25,30 @@ The selected companies from our algorithm are as follows:
 
 
 Companies to invest in:
- Aegon NV 0.05
- American Airlines Group Inc 0.05
- Banco Santander Brasil SA 0.05
- Banco Santander Chile 0.00845426457548186
- British American Tobacco PLC 0.05
- Eni SpA 0.05
- Fabege AB 0.05
- Grupo Aval Acciones y Valores SA 0.05
- Honda Motor Co Ltd 0.05
- Jefferies Financial Group Inc 0.05
- Johnson Controls International plc 0.05
- Lloyds Banking Group PLC 0.05
- Mizuho Financial Group Inc 0.05
- POSCO 0.05
- Sasol Ltd 0.05
- SK Telecom Co Ltd 0.05
- Teck Resources Ltd 0.05
- Telefonica Brasil SA 0.05
- Ultrapar Participacoes SA 0.05
- Vedanta Ltd 0.0415457354245179
- WPP PLC 0.05
+
+| Company | Weight|
+| ------- | ------- |
+|Aegon NV | 0.05|
+| American Airlines Group Inc |0.05|
+ |Banco Santander Brasil SA |0.05|
+| Banco Santander Chile |0.00845426457548186
+ |British American Tobacco PLC| 0.05
+ |Eni SpA| 0.05
+| Fabege AB| 0.05
+ |Grupo Aval Acciones y Valores SA |0.05
+ |Honda Motor Co Ltd |0.05
+ |Jefferies Financial Group Inc |0.05
+ |Johnson Controls International plc |0.05
+ |Lloyds Banking Group PLC |0.05
+ |Mizuho Financial Group Inc |0.05
+| POSCO |0.05
+ |Sasol Ltd| 0.05
+| SK Telecom Co Ltd |0.05
+ |Teck Resources Ltd |0.05
+| Telefonica Brasil SA| 0.05
+ |Ultrapar Participacoes SA |0.05
+ |Vedanta Ltd |0.0415457354245179
+ |WPP PLC| 0.05
  
 Total weight 1.0
 
