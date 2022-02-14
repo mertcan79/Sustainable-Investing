@@ -17,7 +17,8 @@ Pyomo is used for the multiobjective optimization. GLTK installation is necessar
 
 # Data
 
-Companies and related parameters such as return and clean energy usage are scrapped through the web. It consists of 361 companies with mentioned features.  
+Companies and related parameters (Expected return, Sustainability, Dividend yield, Clean energy use) are scrapped through the web. It consists of 361 companies with mentioned features.
+Datasources: Yahoo Finance, NASDAQ, Robecosam, Clean200, ScienceBasedTargets 
 
 # Output
 
